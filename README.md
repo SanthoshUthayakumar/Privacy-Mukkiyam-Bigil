@@ -13,7 +13,7 @@ A full-stack cybersecurity system that replaces the traditional blur-based redac
 • PBKDF2 key derivation — brute-force resistant
 • SHA-256 key hash only stored — raw key never persisted
 • Max 3 wrong attempts + 30-second lockout
-• Full metadata stripping — zero GPS or device data leaks
+• Full metadata stripping — zero GPS or device data leaks 
 • Black box replacement — nothing to reverse unlike blur
 
 🧱 Tech stack:
